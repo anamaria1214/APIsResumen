@@ -1,0 +1,14 @@
+{
+  "name": "apiresumenes",
+  "version": "1.0.0",
+  "description": "Genera resumenes de textos llamando desde varias APIs y obtiene la más rápida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Maria, Arbey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
